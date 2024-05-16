@@ -1,0 +1,27 @@
+[
+  {
+    "href": "/dom",
+    "name": "DOM",
+    "page": "dom"
+  },
+  {
+    "href": "/events",
+    "name": "Events",
+    "page": "events"
+  },
+  {
+    "href": "/fetch",
+    "name": "Fetch",
+    "page": "fetch"
+  },
+  {
+    "href": "/file",
+    "name": "File",
+    "page": "file"
+  },
+  {
+    "href": "/drag-and-drop",
+    "name": "Drag & Drop",
+    "page": "drag-and-drop"
+  }
+]
